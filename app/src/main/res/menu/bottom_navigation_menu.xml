@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_meal"
+        android:icon="@drawable/meal"
+        android:title="Meal" />
+    <item
+        android:id="@+id/nav_water"
+        android:icon="@drawable/water"
+        android:title="Hydration" />" />
+</menu>

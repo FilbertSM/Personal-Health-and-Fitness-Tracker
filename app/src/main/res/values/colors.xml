@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_shade">#2E3A59</color> <!-- Main color -->
+    <color name="gray">#A5A3B0</color>
+    <color name="gray_shade">#F5F5F5</color> <!-- Background -->
+
+    <!-- Accent Colors -->
+    <color name="blue_accent">#506FBF</color> <!-- Complementary shade for buttons, active state -->
+    <color name="sky_blue">#8AB6F2</color> <!-- Soft blue for highlights -->
+    <color name="teal">#4FB5A7</color> <!-- A fresh, modern green accent -->
+    <color name="orange_accent">#FF8F4C</color> <!-- For important action highlights -->
+    <color name="red_accent">#FF5A5F</color> <!-- For errors or alerts -->
+
+    <!-- Neutral Tones -->
+    <color name="light_gray">#E0E0E0</color> <!-- Dividers, borders -->
+    <color name="medium_gray">#C4C4C4</color> <!-- Subtle text -->
+    <color name="dark_gray">#707070</color> <!-- Disabled text or icons -->
+
+    <!-- Gradients -->
+    <color name="gradient_start">#506FBF</color> <!-- Start color for gradient backgrounds -->
+    <color name="gradient_end">#8AB6F2</color> <!-- End color for gradient backgrounds -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2E3A59</color> <!-- Main text -->
+    <color name="text_secondary">#6A6A6A</color> <!-- Secondary text -->
+    <color name="text_highlight">#506FBF</color> <!-- Highlighted text -->
+    <color name="text_placeholder">#A5A3B0</color> <!-- Placeholder text -->
+    <color name="text_error">#FF5A5F</color> <!-- Error text -->
+
+    <!-- Card Backgrounds -->
+    <color name="card_background">#F9FAFD</color> <!-- Card views -->
+    <color name="highlight_background">#F0F5FF</color> <!-- Highlighted elements -->
+
+    <!-- Button Colors -->
+    <color name="button_primary">#506FBF</color> <!-- Main button background -->
+    <color name="button_secondary">#A5A3B0</color> <!-- Secondary button -->
+    <color name="button_disabled">#C4C4C4</color> <!-- Disabled button -->
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color> <!-- For success messages -->
+    <color name="warning">#FF8F4C</color> <!-- For warnings -->
+    <color name="error">#FF5A5F</color> <!-- For errors -->
+</resources>
