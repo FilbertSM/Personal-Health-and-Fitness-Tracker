@@ -7,7 +7,7 @@
     <img alt="Personal Health and Fitness Tracker Logo" src="light.png">
   </picture>
 </p>
-_A simple tool to monitor your health and fitness journey._ 🌟
+A simple tool to monitor your health and fitness journey. 🌟
 
 ---
 
