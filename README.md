@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Logo/light.png" height=>
-    <source media="(prefers-color-scheme: light)" srcset="Logo/dark.png">
-    <img alt="Personal Health and Fitness Tracker Logo" src="Logo/logo-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="light.png" height=>
+    <source media="(prefers-color-scheme: light)" srcset="dark.png">
+    <img alt="Personal Health and Fitness Tracker Logo" src="light.png">
   </picture>
 </p>
 _A simple tool to monitor your health and fitness journey._ 🌟
